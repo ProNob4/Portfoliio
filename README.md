@@ -1,32 +1,34 @@
-# React + TypeScript + Vite
+# 🚀 Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A responsive and modern web development portfolio built with **React**, **TypeScript**, and **Vite**.
 
-Currently, two official plugins are available:
+🌐 **Live Demo:** [https://ornate-sfogliatella-5cc41d.netlify.app/](https://ornate-sfogliatella-5cc41d.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* 📱 **Fully Responsive:** Optimized for desktops, tablets, and mobile devices.
+* ⚡ **Fast Performance:** Powered by Vite for ultra-fast load times and HMR.
+* 🛡️ **Type-Safe:** Built with TypeScript for cleaner code and robustness.
+* 🎨 **Modern UI/UX:** Interactive showcases for projects, skills, and contact info.
 
-## Expanding the Oxlint configuration
+---
 
-If you are developing a production application, we recommend enabling type-aware lint rules by installing `oxlint-tsgolint` and editing `.oxlintrc.json`:
+## 🛠️ Tech Stack
 
-```json
-{
-  "$schema": "./node_modules/oxlint/configuration_schema.json",
-  "plugins": ["react", "typescript", "oxc"],
-  "options": {
-    "typeAware": true
-  },
-  "rules": {
-    "react/rules-of-hooks": "error",
-    "react/only-export-components": ["warn", { "allowConstantExport": true }]
-  }
-}
-```
+* **Frontend Framework:** React
+* **Language:** TypeScript
+* **Build Tool:** Vite
+* **Hosting/Deployment:** Netlify
 
-See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
+---
+
+## 💻 Local Development
+
+Follow these steps to run the project locally on your machine:
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+   cd your-repo-name
