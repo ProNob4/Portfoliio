@@ -2,7 +2,7 @@
 
 A responsive and modern web development portfolio built with **React**, **TypeScript**, and **Vite**. The entire development workflow and environment setup were executed in the cloud using **StackBlitz**.
 
-🌐 **Live Demo:** [https://ornate-sfogliatella-5cc41d.netlify.app/](https://ornate-sfogliatella-5cc41d.netlify.app/)
+🌐 **Live Demo:** [Portfolio](https://pronobportfoliio.netlify.app/)
 
 💻 **StackBlitz Workspace:** [Explore and edit the code](https://stackblitz.com/edit/vitejs-vite-ua2svyzk?file=index.html)
 
